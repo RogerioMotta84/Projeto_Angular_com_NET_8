@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rog\u00E9rio\\Projetos\\ProjetoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5F831-767E-40EE-B2DC-3E38E070AB0B}|ProjetoAPI\\ProjetoAPI.csproj|d:\\rog\u00E9rio\\projetos\\projetoapi\\projetoapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5F831-767E-40EE-B2DC-3E38E070AB0B}|ProjetoAPI\\ProjetoAPI.csproj|solutionrelative:projetoapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5F831-767E-40EE-B2DC-3E38E070AB0B}|ProjetoAPI\\ProjetoAPI.csproj|d:\\rog\u00E9rio\\projetos\\projetoapi\\projetoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5F831-767E-40EE-B2DC-3E38E070AB0B}|ProjetoAPI\\ProjetoAPI.csproj|solutionrelative:projetoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5F831-767E-40EE-B2DC-3E38E070AB0B}|ProjetoAPI\\ProjetoAPI.csproj|d:\\rog\u00E9rio\\projetos\\projetoapi\\projetoapi\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA5F831-767E-40EE-B2DC-3E38E070AB0B}|ProjetoAPI\\ProjetoAPI.csproj|solutionrelative:projetoapi\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA5F831-767E-40EE-B2DC-3E38E070AB0B}|ProjetoAPI\\ProjetoAPI.csproj|d:\\rog\u00E9rio\\projetos\\projetoapi\\projetoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CA5F831-767E-40EE-B2DC-3E38E070AB0B}|ProjetoAPI\\ProjetoAPI.csproj|solutionrelative:projetoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\Rog\u00E9rio\\Projetos\\ProjetoAPI\\ProjetoAPI\\Service\\LoginService.cs",
+              "RelativeDocumentMoniker": "ProjetoAPI\\Service\\LoginService.cs",
+              "ToolTip": "D:\\Rog\u00E9rio\\Projetos\\ProjetoAPI\\ProjetoAPI\\Service\\LoginService.cs",
+              "RelativeToolTip": "ProjetoAPI\\Service\\LoginService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:31:59.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Rog\u00E9rio\\Projetos\\ProjetoAPI\\ProjetoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjetoAPI\\appsettings.json",
+              "ToolTip": "D:\\Rog\u00E9rio\\Projetos\\ProjetoAPI\\ProjetoAPI\\appsettings.json",
+              "RelativeToolTip": "ProjetoAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T08:15:34.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Rog\u00E9rio\\Projetos\\ProjetoAPI\\ProjetoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoAPI\\Program.cs",
+              "ToolTip": "D:\\Rog\u00E9rio\\Projetos\\ProjetoAPI\\ProjetoAPI\\Program.cs",
+              "RelativeToolTip": "ProjetoAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:15:29.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Rog\u00E9rio\\Projetos\\ProjetoAPI\\ProjetoAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ProjetoAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Rog\u00E9rio\\Projetos\\ProjetoAPI\\ProjetoAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ProjetoAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:14:04.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
